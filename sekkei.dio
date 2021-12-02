@@ -1,0 +1,52 @@
+<mxfile host="65bd71144e">
+    <diagram id="TC_YuLdU10kEA_J6kzGV" name="ページ1">
+        <mxGraphModel dx="646" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <object label="usersテーブル" id="2">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                        <mxGeometry x="70" y="65" width="140" height="30" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="9" style="edgeStyle=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="7">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="140" y="350"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;email&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;encrypted_password&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;my_number&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="95" width="140" height="150" as="geometry"/>
+                </mxCell>
+                <object label="candidatesテーブル" id="5">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                        <mxGeometry x="430" y="60" width="150" height="40" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="10" style="edgeStyle=none;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="6" target="7">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="505" y="350"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <object label="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;candidate&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;vote&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;div style=&quot;line-height: 18px&quot;&gt;pledge&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" id="6">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                        <mxGeometry x="430" y="100" width="150" height="90" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="commentsテーブル" id="7">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                        <mxGeometry x="260" y="320" width="140" height="40" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="text&lt;br&gt;user&lt;br&gt;&lt;div&gt;candidate&lt;/div&gt;" id="8">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                        <mxGeometry x="260" y="360" width="140" height="50" as="geometry"/>
+                    </mxCell>
+                </object>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
